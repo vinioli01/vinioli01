@@ -1,7 +1,7 @@
 ### Hi there My name is Vinícius Oliveira Fonseca, welcome in my profile! 👋
 ##
-<h3> - I'm student of System Analyst at  <a href="https://unilavras.edu.br/"> UNILAVRAS </a> </h3>
-<h3> - I'm working at <a href="http://www.technolog.com.br/">TECHNOLOG</a> as Dev Full Stack </h3>
+
+<h3> - I'm working at <a href="https://www.g4f.com.br/">G4F</a> as Dev Full Stack </h3>
 ##
 <h2> - Programming Languages and Technologies </h2>
 <div style="display: inline_block"><br>
